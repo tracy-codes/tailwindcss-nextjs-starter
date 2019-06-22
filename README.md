@@ -4,7 +4,7 @@ This is a lightweight starterkit / boilerplate to get up and running with Tailwi
 
 ## Why make this boilerplate?
 
-I personally build a lot of web apps for companies and I enjoy using Tailwind CSS. I just got really tired of the initial boilerplate setup, so I decided to make this repo so I can get up and running with a new project very easily.
+I personally build a lot of web apps for companies and I enjoy using Tailwind CSS and Next.js. I just got really tired of the initial boilerplate setup, so I decided to make this repo so I can get up and running with a new project very easily.
 
 ## Usage
 
