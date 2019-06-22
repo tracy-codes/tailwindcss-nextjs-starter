@@ -1,0 +1,35 @@
+{
+  "name": "tailwindcss-nextjs-starter",
+  "author": {
+    "name": "Tracy Adams",
+    "email": "tracy@tracycodes.com",
+    "url": "https://tracycodes.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tracy-codes/tailwindcss-nextjs-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tracy-codes/tailwindcss-nextjs-starter/issues"
+  },
+  "homepage": "https://github.com/tracy-codes/tailwindcss-nextjs-starter/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "autoprefixer": "^9.6.0",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "now"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.0.4"
+  }
+}
