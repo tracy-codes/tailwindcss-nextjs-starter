@@ -31,5 +31,8 @@
   },
   "devDependencies": {
     "tailwindcss": "^1.0.4"
+  },
+  "resolutions": {
+    "lodash": "^4.17.13"
   }
 }
